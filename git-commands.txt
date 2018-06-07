@@ -7,4 +7,5 @@
 7.  git status  (tells the staus of the file on comparing to previous ones like modification, deletion)
 8.  git log  (This displays details like author, last saved date of new version of files, message passedd with commit)
 9.  git remote add origin https://github.com/ (this lets us create an online backup at github.com of the local repository)
-10. git push -u origin master (pushes the saved local files into the online repository)/
+10. git push -u origin master (pushes the saved local files into the online repository)
+11. git commit -m "pass message here"  (used to commit the new file to git)
