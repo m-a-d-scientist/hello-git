@@ -1,0 +1,10 @@
+1.  git config --global user.name "young-john-doe1412"  (used to provide the author's username for git to keep track of)
+2.  git config --global user.email "john1412doe@hotmail.com"  (used to provide the author's email for git to keep track of)
+3.  git config user.name  (to check the config user name provided)
+4.  git config user.email  (to check the config email provided)
+5.  git init  (initializes the repository)
+6.  git add.  (adds all the files present in the local repository to git)
+7.  git status  (tells the staus of the file on comparing to previous ones like modification, deletion)
+8.  git log  (This displays details like author, last saved date of new version of files, message passedd with commit)
+9.  git remote add origin https://github.com/ (this lets us create an online backup at github.com of the local repository)
+10. git push -u origin master (pushes the saved local files into the online repository)/
